@@ -10,8 +10,8 @@
 </template>
 
 <script setup>
-const appId = "sandbox-sq0idb-H1cgz2Yv_r8bCaIKNp5IUg"; //TODO: don't commit these
-const locationId = "LCSH27KYTC1TW";
+const appId = "YOUR APP ID";
+const locationId = "YOUR LOCATION ID";
 
 let card;
 let loading = ref(true);
