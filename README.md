@@ -1,3 +1,10 @@
-# Corner Blog Code Repo
+## Table of Contents
 
-## More info coming soon!
+### Square API Platform
+
+#### Web Payments
+- [Accept Payments with Square and Svelte](/accept-payments-with-square-and-svelte/)
+- [Accept Payments with Square and Vue](/accept-payments-with-square-and-vue/)
+
+
+
